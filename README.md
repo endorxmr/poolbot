@@ -12,8 +12,8 @@ supportXMR chatango PoolBot project
 /window          - Displays estimated pplns window in days/hours/minutes
 /test            - Displays random test messages
 
-?list			 - Displays available help info
-?bench			 - Displays benchmark spreadsheet link
-?pplns			 - Displays links for pplns explanation
-?register		 - Displays registration info
+?list            - Displays available help info
+?bench           - Displays benchmark spreadsheet link
+?pplns           - Displays links for pplns explanation
+?register        - Displays registration info
 ```
